@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Willowmere",
+      "hasCanvas": false,
+      "bodyTextLen": 185,
+      "bodyTextHash": "2a97c536088da7c1f4f6f8a372584dca57b6730ab9e6840f447bd8c0abdee9e8",
+      "bodyTextPrefix": "LAKESIDE GARDEN Willowmere Walk the path around the lake. Sit a ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Willowmere",
+      "hasCanvas": false,
+      "bodyTextLen": 185,
+      "bodyTextHash": "2a97c536088da7c1f4f6f8a372584dca57b6730ab9e6840f447bd8c0abdee9e8",
+      "bodyTextPrefix": "LAKESIDE GARDEN Willowmere Walk the path around the lake. Sit a ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
